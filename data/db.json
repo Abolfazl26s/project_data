@@ -28,7 +28,7 @@
         "time": "۳ هفته",
         "isDone": true,
         "desc": "pages: index, login,my-account, order-completed, product, 404,",
-        "imgSrc": "./images/projects/bazarOnline.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/bazarOnline.png"
       },
       {
         "id": "02",
@@ -37,7 +37,7 @@
         "time": "۱ هفته",
         "isDone": true,
         "desc": "pages: index, account, cart, contact, invoice-details, shop, wishlist",
-        "imgSrc": "./images/projects/gemStone.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/gemStone.png"
       },
       {
         "id": "03",
@@ -46,7 +46,7 @@
         "time": "2 هفته",
         "isDone": true,
         "desc": "pages: index, login, cart, checkout, product",
-        "imgSrc": "./images/projects/callOfProject.jpg"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/callOfProject.jpg"
       },
       {
         "id": "04",
@@ -55,7 +55,7 @@
         "time": "۱ هفته",
         "isDone": true,
         "desc": "pages: index, login, blog, checkout, order, tiket",
-        "imgSrc": "./images/projects/handyArt.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/handyArt.png"
       },
       {
         "id": "05",
@@ -64,7 +64,7 @@
         "time": "۱ هفته",
         "isDone": true,
         "desc": "ALL Page",
-        "imgSrc": "./images/projects/icc.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/icc.png"
       },
       {
         "id": "06",
@@ -73,7 +73,7 @@
         "time": "۱ هفته",
         "isDone": true,
         "desc": "",
-        "imgSrc": "./images/projects/landingMasir.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/landingMasir.png"
       },
       {
         "id": "07",
@@ -82,7 +82,7 @@
         "time": "3 هفته",
         "isDone": true,
         "desc": "",
-        "imgSrc": "./images/projects/APPSAM.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/APPSAM.png"
       },
       {
         "id": "08",
@@ -91,7 +91,7 @@
         "time": "2 روز",
         "isDone": true,
         "desc": "",
-        "imgSrc": "./images/projects/Home-toxso-Be.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/Home-toxso-Be.png"
       },
       {
         "id": "09",
@@ -100,7 +100,7 @@
         "time": "1 هفته",
         "isDone": true,
         "desc": "",
-        "imgSrc": "./images/projects/zhomin.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/zhomin.png"
       },
       {
         "id": "10",
@@ -109,7 +109,7 @@
         "time": "3 هفته",
         "isDone": true,
         "desc": "pages: index, about, checkout, compare, login, product, register, wishlist, 404",
-        "imgSrc": "./images/projects/narenjShop.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/narenjShop.png"
       },
       {
         "id": "11",
@@ -118,7 +118,7 @@
         "time": "1 هفته",
         "isDone": true,
         "desc": "pages: index, about us, blogs, contact us, projects ",
-        "imgSrc": "./images/projects/Industry-Home.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/Industry-Home.png"
       },
       {
         "id": "12",
@@ -127,7 +127,7 @@
         "time": "2 هفته",
         "isDone": true,
         "desc": "pages: index, ticket-details ,search, invoice-details , gallery, doctors, details, account",
-        "imgSrc": "./images/projects/اردیبهشت-شفاء-hospital.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/اردیبهشت-شفاء-hospital.png"
       },
       {
         "id": "13",
@@ -136,7 +136,7 @@
         "time": "2 هفته",
         "isDone": true,
         "desc": "pages: index, blog, cart, contact, course-list, instructors, register",
-        "imgSrc": "./images/projects/آموزش-عالی-نیایش-خانه.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/آموزش-عالی-نیایش-خانه.png"
       },
       {
         "id": "14",
@@ -145,7 +145,7 @@
         "time": "",
         "isDone": true,
         "desc": "",
-        "imgSrc": "./images/projects/ایران-جم-بازار (2).png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/ایران-جم-بازار (2).png"
       },
       {
         "id": "15",
@@ -154,7 +154,7 @@
         "time": "1 هفته",
         "isDone": true,
         "desc": "pages: index, businessPlan, consult, startup",
-        "imgSrc": "./images/projects/پنل-کاربری-تجسام.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/پنل-کاربری-تجسام.png"
       },
       {
         "id": "16",
@@ -163,7 +163,7 @@
         "time": "1 هفته",
         "isDone": true,
         "desc": "ALL Page",
-        "imgSrc": "./images/projects/توسعه-دیجیتال-نارنج.png"
+        "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/توسعه-دیجیتال-نارنج.png"
       }
     ],
     "myCareerHistory":[
@@ -172,14 +172,14 @@
               "CooperationStartDate":"05 / 23 / 1400",
               "EndDateOfCooperation":"23 / 11 / 1401",
               "componyName":"ایده گستران ثمین پارس",
-              "logoSrc":"./images/1655882802188.jpeg"
+              "logoSrc":"https://abolfazl26s.github.io/project_data/images/1655882802188.jpeg"
           },
           {"id":"02",
               "jobTitle":"طراح UI/UX",
               "CooperationStartDate":"07 / 05 / 1395",
               "EndDateOfCooperation":"12 / 11 / 1398",
               "componyName":"شرکت تی نیتا",
-              "logoSrc":"./images/1655882802188.jpeg"
+              "logoSrc":"https://abolfazl26s.github.io/project_data/images/1655882802188.jpeg"
           }
     ],
     "skills":[
@@ -200,22 +200,22 @@
       {
         "id":"01",
         "title":"مبانی برنامه نویسی C#",
-        "imgSrc":"./images/certificates/CSharp.jpg"
+        "imgSrc":"https://abolfazl26s.github.io/project_data/images/certificates/CSharp.jpg"
       },
       {
         "id":"02",
         "title":"html & css",
-        "imgSrc":"./images/certificates/HtmlCss.jpg"
+        "imgSrc":"https://abolfazl26s.github.io/project_data/images/certificates/HtmlCss.jpg"
       },
       {
         "id":"03",
         "title":"جاوا اسکریپت",
-        "imgSrc":"./images/certificates/JavaScript.jpg"
+        "imgSrc":"https://abolfazl26s.github.io/project_data/images/certificates/JavaScript.jpg"
       },
       {
         "id":"04",
         "title":"مبانی برنامه نویسی C#",
-        "imgSrc":"./images/certificates/مبانی برنامه نویسی.jpg"
+        "imgSrc":"https://abolfazl26s.github.io/project_data/images/certificates/مبانی برنامه نویسی.jpg"
       }
     ]
   }
