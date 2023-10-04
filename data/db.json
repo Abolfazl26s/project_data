@@ -3,7 +3,7 @@
       { "id": "01", "title": "خانه", "link": "/", "icon": "fas fa-house-user" },
       {
         "id": "02",
-        "title": "نمونه کارها",
+        "title": "پروژه ها",
         "link": "/portfolio",
         "icon": "fas fa-briefcase"
       },
