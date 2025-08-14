@@ -1,6 +1,14 @@
 {
+  "contact_number_title_en": "Phone Number",
+  "contact_number_title_fa": "شماره تماس",
   "menuItems": [
-    { "id": "01", "title_fa": "خانه", "title_en": "Home", "link": "/", "icon": "fas fa-house-user" },
+    {
+      "id": "01",
+      "title_fa": "خانه",
+      "title_en": "Home",
+      "link": "/",
+      "icon": "fas fa-house-user"
+    },
     {
       "id": "02",
       "title_fa": "پروژه ها",
@@ -244,17 +252,72 @@
     }
   ],
   "skills": [
-    { "id": "01", "name_fa": "Html و CSS", "name_en": "Html & CSS", "levelOfSkill": "95" },
-    { "id": "02", "name_fa": "Bootstrap", "name_en": "Bootstrap", "levelOfSkill": "95" },
-    { "id": "03", "name_fa": "جاوااسکریپت ساده", "name_en": "Vanilla JS", "levelOfSkill": "80" },
-    { "id": "04", "name_fa": "جی کوئری", "name_en": "Jquery", "levelOfSkill": "99" },
-    { "id": "05", "name_fa": "ری اکت جی اس", "name_en": "React JS", "levelOfSkill": "80" },
-    { "id": "06", "name_fa": "وردپرس", "name_en": "WordPress", "levelOfSkill": "80" },
-    { "id": "07", "name_fa": "گیت‌هاب", "name_en": "GitHub", "levelOfSkill": "90" },
-    { "id": "08", "name_fa": "فیگما", "name_en": "Figma", "levelOfSkill": "90" },
-    { "id": "09", "name_fa": "ادوبی ایکس دی", "name_en": "Adobe XD", "levelOfSkill": "70" },
-    { "id": "10", "name_fa": "فتوشاپ", "name_en": "Photoshop", "levelOfSkill": "70" },
-    { "id": "11", "name_fa": "اسمبل کامپیوتر", "name_en": "PC Assembly", "levelOfSkill": "90" }
+    {
+      "id": "01",
+      "name_fa": "Html و CSS",
+      "name_en": "Html & CSS",
+      "levelOfSkill": "95"
+    },
+    {
+      "id": "02",
+      "name_fa": "Bootstrap",
+      "name_en": "Bootstrap",
+      "levelOfSkill": "95"
+    },
+    {
+      "id": "03",
+      "name_fa": "جاوااسکریپت ساده",
+      "name_en": "Vanilla JS",
+      "levelOfSkill": "80"
+    },
+    {
+      "id": "04",
+      "name_fa": "جی کوئری",
+      "name_en": "Jquery",
+      "levelOfSkill": "99"
+    },
+    {
+      "id": "05",
+      "name_fa": "ری اکت جی اس",
+      "name_en": "React JS",
+      "levelOfSkill": "80"
+    },
+    {
+      "id": "06",
+      "name_fa": "وردپرس",
+      "name_en": "WordPress",
+      "levelOfSkill": "80"
+    },
+    {
+      "id": "07",
+      "name_fa": "گیت‌هاب",
+      "name_en": "GitHub",
+      "levelOfSkill": "90"
+    },
+    {
+      "id": "08",
+      "name_fa": "فیگما",
+      "name_en": "Figma",
+      "levelOfSkill": "90"
+    },
+    {
+      "id": "09",
+      "name_fa": "ادوبی ایکس دی",
+      "name_en": "Adobe XD",
+      "levelOfSkill": "70"
+    },
+    {
+      "id": "10",
+      "name_fa": "فتوشاپ",
+      "name_en": "Photoshop",
+      "levelOfSkill": "70"
+    },
+    {
+      "id": "11",
+      "name_fa": "اسمبل کامپیوتر",
+      "name_en": "PC Assembly",
+      "levelOfSkill": "90"
+    }
   ],
   "certificates": [
     {
