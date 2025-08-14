@@ -1,4 +1,41 @@
 {
+  "StaticInfo": [
+    {
+      "id": "01",
+      "fullName_en": "Abolfazl Saeidabadi",
+      "fullName_fa": "ابوالفضل سعیدآبادی",
+      "job_title_en": "FrontEnd WebDeveloper",
+      "job_title_fa": "برنامه نویس فرانت اند"
+    },
+    {
+      "id": "02",
+      "title_en": "Phone Number",
+      "title_fa": "شماره تماس",
+      "value_en": "+44 7776890129",
+      "value_fa": "+98 9904470638"
+    },
+    {
+      "id": "03",
+      "title_en": "Email",
+      "title_fa": "پست الکترونیک",
+      "value_en": "asaeidabadi243@gmail.com",
+      "value_fa": "asaeidabadi243@gmail.com"
+    },
+    {
+      "id": "04",
+      "title_en": "Address",
+      "title_fa": "آدرس",
+      "value_en": "‌Bristol_UK",
+      "value_fa": "ایران - شیراز"
+    },
+    {
+      "id": "05",
+      "btn_download_cv_en": "Download CV",
+      "btn_download_cv_en_fa": "دانلود رزومه",
+      "value_en": "",
+      "value_fa": ""
+    }
+  ],
   "menuItems": [
     {
       "id": "01",
