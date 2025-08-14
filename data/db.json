@@ -34,6 +34,11 @@
       "btn_download_cv_en_fa": "دانلود رزومه",
       "value_en": "",
       "value_fa": ""
+    },
+    {
+      "id": "06",
+      "urlAvatar": "https://abolfazl26s.github.io/project_data/images/abolfazl.jpg",
+      "title": "Abolfazl Saeidabadi"
     }
   ],
   "menuItems": [
