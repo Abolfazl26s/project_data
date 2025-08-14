@@ -12,21 +12,24 @@
       "title_en": "Phone Number",
       "title_fa": "شماره تماس",
       "value_en": "+44 7776890129",
-      "value_fa": "+98 9904470638"
+      "value_fa": "+98 9904470638",
+      "icon":"fas fa-phone-flip"
     },
     {
       "id": "03",
       "title_en": "Email",
       "title_fa": "پست الکترونیک",
       "value_en": "asaeidabadi243@gmail.com",
-      "value_fa": "asaeidabadi243@gmail.com"
+      "value_fa": "asaeidabadi243@gmail.com",
+      "icon": "fas fa-envelope"
     },
     {
       "id": "04",
       "title_en": "Address",
       "title_fa": "آدرس",
       "value_en": "‌Bristol_UK",
-      "value_fa": "ایران - شیراز"
+      "value_fa": "ایران - شیراز",
+      "icon": "fas fa-location-dot"
     },
     {
       "id": "05",
