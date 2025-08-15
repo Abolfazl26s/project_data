@@ -366,6 +366,24 @@
       "name_fa": "اسمبل کامپیوتر",
       "name_en": "PC Assembly",
       "levelOfSkill": "90"
+    },
+    {
+      "id": "12",
+      "name_fa": "ریداکس",
+      "name_en": "redux",
+      "levelOfSkill": "70"
+    },
+    {
+      "id": "13",
+      "name_fa": "node / express",
+      "name_en": "node / express",
+      "levelOfSkill": "70"
+    },
+    {
+      "id": "14",
+      "name_fa": "MongoDb",
+      "name_en": "MongoDb",
+      "levelOfSkill": "77"
     }
   ],
   "certificates": [
