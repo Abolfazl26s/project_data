@@ -272,6 +272,18 @@
       "desc_fa": "تمام صفحات",
       "desc_en": "ALL Page",
       "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/توسعه-دیجیتال-نارنج.png"
+    },
+    {
+      "id": "17",
+      "name_fa": "وبسایت نت فلیکس",
+      "name_en": "Netflix Clone (Next.js)",
+      "link": "https://github.com/Abolfazl26s/netflix-clone",
+      "time_fa": "...",
+      "time_en": "...",
+      "isDone": true,
+      "desc_fa": "Next / TypeScript / Tailwindcss ",
+      "desc_en": "Next / TypeScript / Tailwindcss ",
+      "imgSrc": "https://github.com/Abolfazl26s/project_data/blob/main/images/projects/netfilx-clone-next.png"
     }
   ],
   "myCareerHistory": [
