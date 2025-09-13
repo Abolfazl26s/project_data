@@ -396,6 +396,12 @@
       "name_fa": "MongoDb",
       "name_en": "MongoDb",
       "levelOfSkill": "77"
+    },
+    {
+      "id": "15",
+      "name_fa": "تایپ اسکریپت",
+      "name_en": "typescript",
+      "levelOfSkill": "77"
     }
   ],
   "certificates": [
