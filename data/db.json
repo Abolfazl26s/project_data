@@ -285,6 +285,19 @@
       "desc_en": "Next / TypeScript / Tailwindcss ",
       "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/netflix-clone.png"
     }
+    ,
+    {
+      "id": "18",
+      "name_fa": "مدیاپلیر صوتی و تصویری",
+      "name_en": "Media Player App",
+      "link": "https://media-player-app-eta.vercel.app/",
+      "time_fa": "1 روز",
+      "time_en": "1 Day",
+      "isDone": true,
+      "desc_fa": "React / TypeScript / Tailwindcss ",
+      "desc_en": "React / TypeScript / Tailwindcss ",
+      "imgSrc": "https://abolfazl26s.github.io/project_data/images/projects/Screenshot 2025-09-14 at 15.49.17.png"
+    }
   ],
   "myCareerHistory": [
     {
